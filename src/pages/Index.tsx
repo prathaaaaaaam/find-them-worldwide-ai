@@ -36,9 +36,9 @@ const Index = () => {
       
       <main className="container mx-auto py-8 px-4">
         <div className="max-w-5xl mx-auto mb-8">
-          <h1 className="text-3xl font-bold text-gray-900 mb-2">Find Missing Loved Ones</h1>
+          <h1 className="text-3xl font-bold text-gray-900 mb-2">Find Missing Loved Ones with Guardian Angel</h1>
           <p className="text-gray-600">
-            Our AI-powered system uses ethical and legal methods to help locate missing individuals
+            Our AI-powered Guardian Angel system uses ethical and legal methods to help locate missing individuals
             through open-source intelligence and public data.
           </p>
           
@@ -122,7 +122,7 @@ const Index = () => {
                   <div className="w-6 h-6 rounded-full bg-white flex items-center justify-center">
                     <div className="w-3 h-3 rounded-full bg-blue-600"></div>
                   </div>
-                  <h2 className="text-lg font-bold text-white">FindThem</h2>
+                  <h2 className="text-lg font-bold text-white">Guardian Angel</h2>
                 </div>
                 <p className="text-sm text-gray-400 max-w-xs">
                   Helping locate missing persons through ethical AI technology and open-source intelligence.
@@ -166,7 +166,7 @@ const Index = () => {
             
             <div className="text-sm text-gray-400 flex flex-col md:flex-row justify-between items-center">
               <div>
-                &copy; 2024 FindThem Worldwide AI. All rights reserved.
+                &copy; 2024 Guardian Angel Worldwide AI. All rights reserved.
               </div>
               <div className="mt-4 md:mt-0">
                 This system operates within legal and ethical boundaries.

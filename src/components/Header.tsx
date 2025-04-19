@@ -12,7 +12,7 @@ const Header = () => {
               <div className="w-2 h-2 rounded-full bg-white"></div>
             </div>
           </div>
-          <h1 className="text-2xl font-bold">FindThem</h1>
+          <h1 className="text-2xl font-bold">Guardian Angel</h1>
           <span className="text-xs bg-blue-500 px-2 py-1 rounded-full ml-2">Worldwide AI</span>
         </div>
         <nav className="hidden md:flex space-x-6 text-sm">
